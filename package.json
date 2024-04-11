@@ -1,0 +1,14 @@
+{
+  "name": "handy-ether",
+  "version": "1.0.0",
+  "description": "That's a lib that provides functionalities like generating Ethereum addresses, signing messages, and verifying signatures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.11.1"
+  }
+}
